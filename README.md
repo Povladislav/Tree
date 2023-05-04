@@ -16,5 +16,8 @@ sudo docker-compose build
 ```
 sudo docker-compose up
 ```
-
+____
+And dont forget to create your superuser to access Django admin!
+_____
 # P.S SHARING .ENV FILE IN REPO IS NOT GOOD PRACTICE AT ALL. BUT TO ENSURE THAT YOUR DATABASE WILL WORK CORRECTLY AND TO NOT DISTURB YOU WITH CREATING YOUR OWN, I WILL SHARE MINE RIGHT IN REPO
+
