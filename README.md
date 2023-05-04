@@ -14,4 +14,4 @@ sudo docker-compose build
 sudo docker-compose up
 ```
 
-# P.S as I did not share my .env file to you and to ensure,that your database will work, unfortunately, you need to create your own, or just pass "raw" data to settings of your DB(treemenu->settings.py)
+# P.S SHARING .ENV FILE IN REPO IS NOT GOOD PRACTICE AT ALL. BUT TO ENSURE THAT YOUR DATABASE WILL WORK CORRECTLY AND TO NOT DISTURB YOU WITH CREATING YOUR OWN, I WILL SHARE MINE RIGHT IN REPI
