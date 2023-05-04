@@ -8,6 +8,9 @@ To not waste your time I have turned around my app with docker&docker-compose wi
 git clone https://github.com/Povladislav/Tree.git
 ```
 ```
+pipenv shell
+```
+```
 sudo docker-compose build
 ```
 ```
